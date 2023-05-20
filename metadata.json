@@ -1,0 +1,11 @@
+{
+    "assetName": "testasset",
+    "description": "test description",
+    "associations": [
+        "github.com/test12"
+    ],
+    "topics": [
+        "ens-machinelearning",
+        "ens-asset"
+    ]
+}
